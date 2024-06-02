@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Myntra Clone",
+    "desc": "web application where two players roll virtual dice to see who scores higher. by using HTML, CSS, and JS to create interactive game.",
+    "image": "myntra",
+    "category": "mern",
+    "links": {
+      "view": "https://taqiuddin-mohammed.github.io/Myntra-Frent-end-Project/",
+      "code": "https://github.com/Taqiuddin-Mohammed/Myntra-Frent-end-Project"
+    }
+  },
+  {
+    "name": "Car Rental System",
+    "desc": "backend project demonstrates the basics of OOP in Java.",
+    "image": "CarRentalSystem",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/Taqiuddin-Mohammed/Car_Rental_System",
+      "code": "https://github.com/Taqiuddin-Mohammed/Car_Rental_System"
+    }
+  },
+  {
+    "name": "Wikipedia Clone",
+    "desc": " .",
+    "image": "Wikipedia",
+    "category": "mern",
+    "links": {
+      "view": "https://taqiuddin-mohammed.github.io/Wikipedia-Clone/",
+      "code": "https://github.com/Taqiuddin-Mohammed/Wikipedia-Clone"
+    }
+  },
+  {
+    "name": "Amazon Home Page",
+    "desc": "web application where two players roll virtual dice to see who scores higher. by using HTML, CSS, and JS to create interactive game.",
+    "image": "Amazon",
+    "category": "mern",
+    "links": {
+      "view": "https://taqiuddin-mohammed.github.io/Amazon-home-page-F-end-project/",
+      "code": "https://github.com/Taqiuddin-Mohammed/Amazon-home-page-F-end-project"
+    }
+  },
+ {
+    "name": "BankingManagementSystem",
+    "desc": "A JavaDBC project, User can Customers, Accounts his account.",
+    "image": "BMS",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/Taqiuddin-Mohammed/Banking_Management_System",
+      "code": "https://github.com/Taqiuddin-Mohammed/Banking_Management_System"
+    }
+  },
+  {
+    "name": "Drum kit",
+    "desc": "web page using HTML, CSS & JS. To play different drum sounds by clicking on music instruments images.",
+    "image": "Drum kit",
+    "category": "mern",
+    "links": {
+      "view": "https://taqiuddin-mohammed.github.io/Drum_Kit/",
+      "code": "https://github.com/Taqiuddin-Mohammed/Drum_Kit"
+    }
+  } 
+]
