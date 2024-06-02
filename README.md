@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript , JSON and jQuery.
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://taqiuddin-mohammed.github.io/Portfolio-Website-JWD/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
