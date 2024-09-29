@@ -2,7 +2,7 @@
   {
     "name": "Myntra Clone",
     "desc": "web application where two players roll virtual dice to see who scores higher. by using HTML, CSS, and JS to create interactive game.",
-    "image": "myntra",
+    "image": "https://drive.google.com/drive/folders/1tGEj3zyNd5CXZcWgCqePGtCrEkXF6oXJtra",
     "category": "mern",
     "links": {
       "view": "https://taqiuddin-mohammed.github.io/Myntra-Frent-end-Project/",
@@ -12,7 +12,7 @@
   {
     "name": "Car Rental System",
     "desc": "backend project demonstrates the basics of OOP in Java.",
-    "image": "CarRentalSystem",
+    "image": "https://drive.google.com/drive/folders/1tGEj3zyNd5CXZcWgCqePGtCrEkXF6oXJem",
     "category": "lamp",
     "links": {
       "view": "https://github.com/Taqiuddin-Mohammed/Car_Rental_System",
@@ -42,7 +42,7 @@
  {
     "name": "BankingManagementSystem",
     "desc": "A JavaDBC project, User can Customers, Accounts his account.",
-    "image": "BMS",
+    "image": "https://drive.google.com/drive/folders/1tGEj3zyNd5CXZcWgCqePGtCrEkXF6oXJBMS",
     "category": "lamp",
     "links": {
       "view": "https://github.com/Taqiuddin-Mohammed/Banking_Management_System",
