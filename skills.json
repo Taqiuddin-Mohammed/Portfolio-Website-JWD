@@ -1,11 +1,11 @@
 [
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
         "name": "HTML5",
@@ -20,20 +20,81 @@
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
     {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    }
+    },
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/?size=50&id=39292&format=png&color=000000"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/?size=50&id=22813&format=png&color=000000"
+    }, 
+    {
+        "name": "Ansible",
+        "icon": "https://img.icons8.com/?size=50&id=iGCCE2iEmh2u&format=png&color=000000"
+    },
+    {
+        "name": "Argo CD",
+        "icon": "https://img.icons8.com/?size=50&id=9Khpsc0HThfN&format=png&color=000000"
+    },
+    {
+        "name": "kubernets",
+        "icon": "https://img.icons8.com/?size=50&id=cvzmaEA4kC0o&format=png&color=000000"
+    },
+    {
+        "name": "Terraform",
+        "icon": "https://img.icons8.com/?size=45&id=WncR8Bcg5nE9&format=png&color=000000"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "YAML",
+        "icon": "https://img.icons8.com/?size=50&id=BQRxFptIFHnS&format=png&color=000000"
+
+    },
+    {
+        "name": "Kafka",
+        "icon": "https://img.icons8.com/?size=50&id=fOhLNqGJsUbJ&format=png&color=000000"
+    },
+    {
+        "name": "AI Tools",
+        "icon": "https://img.icons8.com/?size=50&id=97384&format=png&color=000000"
+    },
+    {
+        "name": "Windows",
+        "icon": "https://img.icons8.com/?size=50&id=TuXN3JNUBGOT&format=png&color=000000"
+    },   
+    {
+        "name": "MacOS",
+        "icon": "https://img.icons8.com/?size=50&id=48112&format=png&color=000000"
+    },
+    {
+        "name": "Linex",
+        "icon": "https://img.icons8.com/?size=50&id=17842&format=png&color=000000"
+    },
+    {
+        "name": "VS code",
+        "icon": "https://img.icons8.com/?size=45&id=9OGIyU8hrxW5&format=png&color=000000"
+    }  
 
 ]
-
-
-
-
